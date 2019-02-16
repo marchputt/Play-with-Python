@@ -2,3 +2,5 @@
 /img-proc/read-write/*_output-image.png
 .DS_Store
 venv/
+*.pyc
+*-checkpoint.ipynb
