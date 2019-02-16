@@ -32,8 +32,8 @@ The example number sorted by the book is listed here:
 * Chapter 3
   * Example 3-2 Read and play a video file. 
 * Chapter 4
-  * [Example 4-1](img-proc/pixel-wise-op/) Pixel-wise operation (write)
-  * Example 4-2 Pixel-wise operation (read) (See example 4-1)
+  * [Example 4-1](img-proc/pixel-wise-op/change-pixel-value.py) Pixel-wise operation (write)
+  * [Example 4-2](img-proc/pixel-wise-op/read-pixel-value.py) Pixel-wise operation (read) (See example 4-1)
   * Example 4-3 Add color to the first quarter of the image
   * Example 4-4 Generate black image, then fill the first quarter with white color. 
   * Example 4-5 Find the coordinate with specific color
