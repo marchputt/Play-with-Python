@@ -18,6 +18,18 @@ The script contain example in using python is in the folder `python-demo/`.
 ### Image processing
 Go to `img-proc/` and explore
 
+#### Index
+* [Basic read and write](img-proc/read-write/)
+* [Generating (interesting) images](img-proc/sample-images/generate-images.py)
+* Geometric transformation
+  * [Resizing](img-proc/resize)
+* Histogram
+  * [Visualizaing image histogram](img-proc/image-histogram/)
+* [Pixel-wise operations](img-proc/pixel-wise-op/pixel-wise-can-do-anything.ipynb)
+  * [How to access pixel value](img-proc/pixel-wise-op/read-pixel-value.py)
+  * [Adding color](img-proc/pixel-wise-op/add-color.py)
+  * [Modify pixel value](img-proc/pixel-wise-op/change-pixel-value.py)
+
 ## Reference book 
 Some of the example in this project is the Python version of examples in the MATLAB book ["การประยุกต์ใช้ MATLAB สำหรับการประมวลภาพดิจิตอล"](http://www.ookbee.com/Shop/Book/9a2fd582-e920-42fc-b5a7-d600705248e1). 
 
