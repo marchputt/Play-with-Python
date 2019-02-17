@@ -37,7 +37,7 @@ The example number sorted by the book is listed here:
   * [Example 4-3](img-proc/pixel-wise-op/add-color.py) Add color to the first quarter of the image
   * [Example 4-4](img-proc/the-matlab-book/ex4-4.py) Generate black image, then fill the first quarter with white color. 
   * Example 4-5 Find the coordinate with specific color
-  * Example 4-6 Generate one-layer and three-layer black-and-white image
+  * Example 4-6 Generate one-layer and three-layer black-and-white image [See "Pixel-wise can do anything"](img-proc/pixel-wise-op/pixel-wise-can-do-anythin.ipynb)
   * Example 4-7 Add border (bounding box) to specific part of the image
 
 (more chapters to come in the future!)
