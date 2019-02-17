@@ -35,10 +35,10 @@ Some of the example in this project is the Python version of examples in the MAT
 
 The example number sorted by the book is listed here: 
 * Chapter 1
-  * [Example 1-1](img-proc/resize/) Resizing the image.
+  * [Example 1-1](img-proc/resize/opencv-imresize.ipynb) Resizing the image.
 * Chapter 2
   * [Example 2-1](img-proc/read-write/) Reading the image.
-  * Example 2-2 (See [Example 2-1](img-proc/read-write/)) Showing the image.
+  * Example 2-2 (See [Example 2-1](img-proc/read-write/read-write.ipynb)) Showing the image. (NB)
   * Example 2-3 Arithmetic
   * Example 2-4 Read and show multiple images. 
 * Chapter 3
@@ -49,15 +49,16 @@ The example number sorted by the book is listed here:
   * [Example 4-3](img-proc/pixel-wise-op/add-color.py) Add color to the first quarter of the image
   * [Example 4-4](img-proc/the-matlab-book/ex4-4.py) Generate black image, then fill the first quarter with white color. 
   * Example 4-5 Find the coordinate with specific color
-  * Example 4-6 Generate one-layer and three-layer black-and-white image [See "Pixel-wise can do anything"](img-proc/pixel-wise-op/pixel-wise-can-do-anythin.ipynb)
+  * Example 4-6 Generate one-layer and three-layer black-and-white image [See "Pixel-wise can do anything"](img-proc/pixel-wise-op/pixel-wise-can-do-anythin.ipynb) (NB)
   * Example 4-7 Add border (bounding box) to specific part of the image
 * Chapter 6
-  * [Example 6-1](img-proc/image-histogram/using-image-histogram.ipynb)
-  * [Example 6-2&3](Adjust [Example 6-1](img-proc/image-histogram/using-image-histogram.ipynb))
+  * [Example 6-1](img-proc/image-histogram/using-image-histogram.ipynb) (NB)
+  * [Example 6-2&3](Adjust [Example 6-1](img-proc/image-histogram/using-image-histogram.ipynb)) (NB)
   * [Example 6-4](img-proc/_utilities/pp_rgb2gray.py) Convert RGB image to grayscale image. 
   * Example 6-5 Create vertical and horizontal histogram from B&W image. 
 * Chapter 7
   * [OpenCV tutorial](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html#dilation): They have a very good documentation. 
-  * [Erosion and dilation](img-proc/morphological-op/erosion-dilation.ipynb)
+  * [Erosion and dilation](img-proc/morphological-op/erosion-dilation.ipynb) (NB)
 
+NB = Jupyter Notebook
 (more chapters to come in the future!)
